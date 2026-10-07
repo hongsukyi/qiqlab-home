@@ -1,0 +1,18 @@
+site_name: QIQ Lab
+site_url: https://qiqlab.com/
+site_description: Quantum IQ Lab - AI 에이전트, 양자컴퓨팅, 양자머신러닝 연구와 교육
+theme:
+  name: material
+  language: ko
+  features:
+    - navigation.tabs
+nav:
+  - 소개: index.md
+  - 교재: https://blog.qiqlab.com/
+  - 블로그: https://blog.qiqlab.com/blog/
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+copyright: Copyright &copy; 2026 QIQ Lab. All rights reserved.
